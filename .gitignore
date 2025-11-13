@@ -1,0 +1,113 @@
+# =========================================================
+# Python
+# =========================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+private_data.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
+
+# MyPy / type checker cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Jupyter / notebooks cache
+.ipynb_checkpoints
+
+# Temporary or debug files
+*.log
+*.tmp
+*.bak
+*.swp
+*.pid
+
+# =========================================================
+# IDE / Editor
+# =========================================================
+# PyCharm Community Edition
+.idea/
+
+# VS Code
+.vscode/
+
+# =========================================================
+# Environment & Config
+# =========================================================
+# Environment variables and secrets
+.env
+*.env
+.env.*
+
+# Local config files (not needed in version control)
+*.local
+*.cfg
+*.ini
+*.toml
+
+# =========================================================
+# Database
+# =========================================================
+# PostgreSQL: usually database is external, but ignore dumps or backups
+*.sql
+*.dump
+*.backup
+
+# Local SQLite files (if used temporarily)
+*.sqlite3
+
+# =========================================================
+# Logs / Data / Caches
+# =========================================================
+logs/
+log/
+tmp/
+data/
+instance/
+.cache/
+
+# =========================================================
+# OS / System Files
+# =========================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# =========================================================
+# Custom project folders
+# =========================================================
+# Personal notes or experimental scripts
+not/
+
+# =========================================================
+# End of file
+# =========================================================
